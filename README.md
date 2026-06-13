@@ -1,2 +1,8 @@
-# nelaia-examples
-Examples, demos, and use cases for the NELAIA ecosystem.
+﻿# NELAIA Examples
+Examples and demos.
+
+## Structure
+/basic
+/intermediate
+/advanced
+/docs
